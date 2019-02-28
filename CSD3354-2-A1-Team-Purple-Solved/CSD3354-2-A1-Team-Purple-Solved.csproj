@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>CSD3354_2_A1_Team_Purple_Solved</RootNamespace>
+  </PropertyGroup>
+
+</Project>
